@@ -22,7 +22,7 @@ Follow the steps below to use `hfla-search-wikis`.
 - [Python 3.x](https://www.python.org/downloads/)
 - [`ripgrep-all`](https://github.com/phiresky/ripgrep-all?tab=readme-ov-file#installation)
 - [`git`](https://git-scm.com/downloads)
-- Access to your computer's terminal
+- bash terminal
 
 ## Download
 
